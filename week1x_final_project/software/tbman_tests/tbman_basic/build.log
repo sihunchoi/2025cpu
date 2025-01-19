@@ -1,0 +1,3 @@
+riscv64-unknown-elf-gcc -O2 -flto -mabi=ilp32 -march=rv32i -static -mcmodel=medany -nostdlib -nostartfiles -T tbman.ld -I/home/std249/2025cpu/week1x_final_project/software/tbman_tests/tbman_basic/151_library tbman.c start.s /home/std249/2025cpu/week1x_final_project/software/tbman_tests/tbman_basic/151_library/ascii.c /home/std249/2025cpu/week1x_final_project/software/tbman_tests/tbman_basic/151_library/uart.c /home/std249/2025cpu/week1x_final_project/software/tbman_tests/tbman_basic/151_library/string.c -o tbman.elf
+make: riscv64-unknown-elf-gcc: Command not found
+make: *** [Makefrag:23: tbman.elf] Error 127

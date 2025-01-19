@@ -1,0 +1,110 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "adder": [
+        "adder",
+        "Qq4Ev",
+        "module",
+        2
+    ],
+    "cla_8bit": [
+        "cla_8bit",
+        "c8pr1",
+        "module",
+        3
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        4
+    ],
+    "mux2": [
+        "mux2",
+        "i3rNP",
+        "module",
+        7
+    ],
+    "mux3": [
+        "mux3",
+        "rsgQu",
+        "module",
+        6
+    ],
+    "mux4": [
+        "mux4",
+        "s6Cv4",
+        "module",
+        17
+    ],
+    "be_logic": [
+        "be_logic",
+        "LwJfg",
+        "module",
+        18
+    ],
+    "csr": [
+        "csr",
+        "cNThd",
+        "module",
+        19
+    ],
+    "tbman_wrap": [
+        "tbman_wrap",
+        "Ln2ne",
+        "module",
+        10
+    ],
+    "branch_logic": [
+        "branch_logic",
+        "swNKB",
+        "module",
+        20
+    ],
+    "ASYNC_RAM_DP_WBE": [
+        "ASYNC_RAM_DP_WBE",
+        "TV9z4",
+        "module",
+        9
+    ],
+    "controller": [
+        "controller",
+        "KBY0m",
+        "module",
+        21
+    ],
+    "Addr_Decoder": [
+        "Addr_Decoder",
+        "gMGVA",
+        "module",
+        11
+    ],
+    "data_mux": [
+        "data_mux",
+        "Dxf2Z",
+        "module",
+        22
+    ],
+    "data_forwarding": [
+        "data_forwarding",
+        "Hxs8a",
+        "module",
+        23
+    ],
+    "cpu_tb": [
+        "cpu_tb",
+        "mvuYT",
+        "module",
+        12
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        13
+    ]
+}

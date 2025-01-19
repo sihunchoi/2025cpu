@@ -1,0 +1,92 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "cla_8bit": [
+        "cla_8bit",
+        "c8pr1",
+        "module",
+        9
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        10
+    ],
+    "flopenr": [
+        "flopenr",
+        "rCRUN",
+        "module",
+        11
+    ],
+    "mux3": [
+        "mux3",
+        "rsgQu",
+        "module",
+        12
+    ],
+    "be_logic": [
+        "be_logic",
+        "LwJfg",
+        "module",
+        13
+    ],
+    "hazard_unit": [
+        "hazard_unit",
+        "g5vFt",
+        "module",
+        14
+    ],
+    "flush": [
+        "flush",
+        "jwxMm",
+        "module",
+        15
+    ],
+    "Branch_Logic": [
+        "Branch_Logic",
+        "MhVit",
+        "module",
+        16
+    ],
+    "ASYNC_RAM_DP_WBE": [
+        "ASYNC_RAM_DP_WBE",
+        "TV9z4",
+        "module",
+        2
+    ],
+    "tbman_wrap": [
+        "tbman_wrap",
+        "Ln2ne",
+        "module",
+        17
+    ],
+    "Addr_Decoder": [
+        "Addr_Decoder",
+        "gMGVA",
+        "module",
+        5
+    ],
+    "data_mux": [
+        "data_mux",
+        "Dxf2Z",
+        "module",
+        6
+    ],
+    "c_tests_tb": [
+        "c_tests_tb",
+        "e7D59",
+        "module",
+        7
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        8
+    ]
+}

@@ -1,0 +1,17 @@
+#######################################################################################
+# fsdb.xxxxx.log : log primitive debug message of FSDB Reader
+# This is for R&D to analyze when there are issues happening when FSDB reading
+# The corresponding FSDB file is /home/std249/2025cpu/week1x_final_project/hardware/83.RV32I_sync_timer_tests/sim/func_sim_timer_dhrystone/wave.fsdb
+#######################################################################################
+[BASIC]Reader version : Chronologic Simulation VCS Release S-2021.09-SP2-9_Full64
+[BASIC]simulator version : Chronologic Simulation VCS Release S-2021.09-SP2-9_Full64
+[BASIC]dumper version : FSDB Dumper for VCS, Release Verdi_S-2021.09-SP2-9, Linux x86_64/64bit, 03/29/2023
+[THREAD]The MTR thread count is 12
+[READSCOPE]ReadScopeTree calling time is 1
+[READSCOPE]ReadScope_PartialLoad calling time is 0
+[READSCOPE]Scope read by partial load count is 0
+[READSCOPE]Scope read count is 2
+[READSCOPE]Decompressed blk is 1
+[FSDBGate Info] start
+[FSDBGate Info] Total fhdb_compute_count = 0
+[FSDBGate Info] end

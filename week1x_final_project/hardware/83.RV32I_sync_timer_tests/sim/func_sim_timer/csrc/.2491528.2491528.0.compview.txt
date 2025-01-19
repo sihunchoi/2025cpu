@@ -1,0 +1,7 @@
+Command exited with non-zero status 255
+{"vcs1":{"timestamp_begin":1737007150.149790445, "rt":0.24, "ut":0.08, "st":0.08}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1737007149.849971267}
+{"VCS_COMP_START_TIME": 1737007149.849971267}
+{"VCS_COMP_END_TIME": 1737007150.465019262}
+{"VCS_USER_OPTIONS": "-full64 -R -debug_acc+all -sverilog -kdb -timescale=1ns/1ns -f run.f"}
+{"vcs1": {"peak_mem": 520160}}

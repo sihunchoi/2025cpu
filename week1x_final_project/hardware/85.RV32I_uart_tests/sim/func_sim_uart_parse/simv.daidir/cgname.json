@@ -1,0 +1,116 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "adder": [
+        "adder",
+        "Qq4Ev",
+        "module",
+        2
+    ],
+    "cla_8bit": [
+        "cla_8bit",
+        "c8pr1",
+        "module",
+        3
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        4
+    ],
+    "flopenr": [
+        "flopenr",
+        "rCRUN",
+        "module",
+        5
+    ],
+    "mux3": [
+        "mux3",
+        "rsgQu",
+        "module",
+        6
+    ],
+    "sync_block": [
+        "sync_block",
+        "diQxv",
+        "module",
+        7
+    ],
+    "hazard_unit": [
+        "hazard_unit",
+        "g5vFt",
+        "module",
+        8
+    ],
+    "flush": [
+        "flush",
+        "jwxMm",
+        "module",
+        9
+    ],
+    "GPIO": [
+        "GPIO",
+        "JWNVz",
+        "module",
+        10
+    ],
+    "pulse_gen": [
+        "pulse_gen",
+        "T7HIq",
+        "module",
+        11
+    ],
+    "SEG7_LUT": [
+        "SEG7_LUT",
+        "HiIcb",
+        "module",
+        12
+    ],
+    "Branch_Logic": [
+        "Branch_Logic",
+        "MhVit",
+        "module",
+        13
+    ],
+    "ASYNC_RAM_DP_WBE": [
+        "ASYNC_RAM_DP_WBE",
+        "TV9z4",
+        "module",
+        14
+    ],
+    "tbman_wrap": [
+        "tbman_wrap",
+        "Ln2ne",
+        "module",
+        15
+    ],
+    "Addr_Decoder": [
+        "Addr_Decoder",
+        "gMGVA",
+        "module",
+        16
+    ],
+    "data_mux": [
+        "data_mux",
+        "Dxf2Z",
+        "module",
+        17
+    ],
+    "uart_parse_tb": [
+        "uart_parse_tb",
+        "ZbJ1y",
+        "module",
+        18
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        19
+    ]
+}

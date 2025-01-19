@@ -1,0 +1,73 @@
+Magic 271485
+Revision Verdi_S-2021.09-SP2-9
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 25 1298 231 193 65
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/home/std249/2024lab_cpu/week1x_final_project/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/wave.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 0.000000 6231.700000
+cursor 0.000000
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 2
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByChange
+
+
+addGroup "G1"
+activeDirFile "" "/home/std249/2024lab_cpu/week1x_final_project/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/wave.fsdb"
+addSignal -h 15 /cpu_tb/CPU/icpu/PCSrc[1:0]
+addSignal -h 15 -holdScope PC[31:0]
+addGroup "G2"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+activeDirFile "" "/home/std249/2024lab_cpu/week1x_final_project/hardware/01.RV32I_Integrated_Test_partial_type/sim/func_sim/wave.fsdb"
+
+GETSIGNALFORM_SCOPE_HIERARCHY_BEGIN
+getSignalForm close
+
+"/cpu_tb"
+"/cpu_tb/CPU"
+
+SCOPE_LIST_BEGIN
+"/cpu_tb"
+"/cpu_tb/CPU"
+"/cpu_tb/CPU/imem"
+"/cpu_tb/CPU/icpu"
+SCOPE_LIST_END
+
+GETSIGNALFORM_SCOPE_HIERARCHY_END
+
+

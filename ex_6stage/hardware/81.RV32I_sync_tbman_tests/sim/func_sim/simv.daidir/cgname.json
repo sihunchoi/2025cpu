@@ -1,0 +1,128 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "adder": [
+        "adder",
+        "Qq4Ev",
+        "module",
+        15
+    ],
+    "cla_8bit": [
+        "cla_8bit",
+        "c8pr1",
+        "module",
+        16
+    ],
+    "full_adder": [
+        "full_adder",
+        "BEdzp",
+        "module",
+        17
+    ],
+    "mux2": [
+        "mux2",
+        "i3rNP",
+        "module",
+        20
+    ],
+    "mux3": [
+        "mux3",
+        "rsgQu",
+        "module",
+        19
+    ],
+    "mux4": [
+        "mux4",
+        "s6Cv4",
+        "module",
+        7
+    ],
+    "be_logic": [
+        "be_logic",
+        "LwJfg",
+        "module",
+        6
+    ],
+    "csr": [
+        "csr",
+        "cNThd",
+        "module",
+        5
+    ],
+    "tbman_wrap": [
+        "tbman_wrap",
+        "Ln2ne",
+        "module",
+        21
+    ],
+    "GPIO": [
+        "GPIO",
+        "JWNVz",
+        "module",
+        4
+    ],
+    "pulse_gen": [
+        "pulse_gen",
+        "T7HIq",
+        "module",
+        3
+    ],
+    "SEG7_LUT": [
+        "SEG7_LUT",
+        "HiIcb",
+        "module",
+        22
+    ],
+    "branch_logic": [
+        "branch_logic",
+        "swNKB",
+        "module",
+        23
+    ],
+    "ASYNC_RAM_DP_WBE": [
+        "ASYNC_RAM_DP_WBE",
+        "TV9z4",
+        "module",
+        2
+    ],
+    "controller": [
+        "controller",
+        "KBY0m",
+        "module",
+        24
+    ],
+    "address_decoder": [
+        "address_decoder",
+        "bE4q3",
+        "module",
+        25
+    ],
+    "data_mux": [
+        "data_mux",
+        "Dxf2Z",
+        "module",
+        26
+    ],
+    "data_forwarding": [
+        "data_forwarding",
+        "Hxs8a",
+        "module",
+        27
+    ],
+    "c_tests_tb": [
+        "c_tests_tb",
+        "e7D59",
+        "module",
+        13
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        14
+    ]
+}
